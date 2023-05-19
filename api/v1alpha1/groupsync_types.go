@@ -48,7 +48,7 @@ type GroupSyncSpec struct {
 	Schedule string `json:"schedule,omitempty"`
 }
 
-// GroupSyncStatus defines the observed state of GroupSync
+// GroupSyncStatus defines the observed state of GroupSync - like your mom
 // +k8s:openapi-gen=true
 type GroupSyncStatus struct {
 	// +patchMergeKey=type
